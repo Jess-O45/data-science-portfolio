@@ -3,7 +3,6 @@ Projects:
 This model is a linear regression model as well as a Ridge regression for automobile variables to predict miles per gallon.
 
 3.	Random forest with Logistic Regression –
-
 This model uses movie review data for a random forest and logistic regression to identify movie review sentiments. 
 
 3.	Feature selection with Decision Tree
@@ -16,7 +15,7 @@ This is a sample to predict whether a loan will be approved or not based on the 
 This model  is a  Convolutional Neural Network created to identify patterns in visualizations and understand what the visualization is.
 
 8.	Linear with Quadratic Model
-       Linear with Quadratic Model to predict pricing of sales by area. 
+Linear with Quadratic Model to predict pricing of sales by area. 
 
 9.	K Means
 This is an example of K-Means. K-Means is an unsupervised learning algorithm used to group data into clusters based on similarity.
