@@ -29,4 +29,3 @@ This is a mapping visualization to see where and which airports have higher comp
 14.	Correlation matrix and OLS regression
 This is a model for identifying which features are important and how they relate to one another. For this particular model, baseball promotions are the features and the objective was to identify which promotions increased the audience count. 
 
-
